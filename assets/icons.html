@@ -18,6 +18,10 @@
 			font-size:32px;
 			font-weight:normal;
 			}
+		h1 small {
+			font-size: 0.8em;
+			padding-left: 2em;
+		}
 		.icons {
 			margin-bottom:40px;
 			-webkit-column-count:5;
@@ -56,16 +60,18 @@
 
 @font-face {
 	font-family:"icons";
-	src:url("../src/fonts/icons.eot?332d50bc1a668ceea30b2e340b428f32");
+	src:url("../src/fonts/icons.eot?840d524ab1bb831b708670f08808dc66");
 	src:url("../src/fonts/icons.eot?#iefix") format("embedded-opentype"),
-		url("../src/fonts/icons.woff?332d50bc1a668ceea30b2e340b428f32") format("woff"),
-		url("../src/fonts/icons.ttf?332d50bc1a668ceea30b2e340b428f32") format("truetype");
+		url("../src/fonts/icons.woff?840d524ab1bb831b708670f08808dc66") format("woff"),
+		url("../src/fonts/icons.ttf?840d524ab1bb831b708670f08808dc66") format("truetype");
 	font-weight:normal;
 	font-style:normal;
 }
 
 .icon {
-	font-family:"icons";
+	
+		font-family:"icons";
+	
 	display:inline-block;
 	vertical-align:middle;
 	line-height:1;
@@ -83,83 +89,218 @@
 /* Icons */
 
 
-.icon-add-16:before {
+.icon-alert-fill:before {
 	content:"\f101";
 }
 
 
-.icon-add-24:before {
+.icon-alert-outline:before {
 	content:"\f102";
 }
 
 
-.icon-check-16:before {
+.icon-back-outline:before {
 	content:"\f103";
 }
 
 
-.icon-check-24:before {
+.icon-calendar-fill:before {
 	content:"\f104";
 }
 
 
-.icon-edit-16:before {
+.icon-card-outline:before {
 	content:"\f105";
 }
 
 
-.icon-edit-24:before {
+.icon-check-outline:before {
 	content:"\f106";
 }
 
 
-.icon-home-16:before {
+.icon-close-fill:before {
 	content:"\f107";
 }
 
 
-.icon-home-24:before {
+.icon-close-outline:before {
 	content:"\f108";
 }
 
 
-.icon-menu-16:before {
+.icon-down-outline:before {
 	content:"\f109";
 }
 
 
-.icon-menu-24:before {
+.icon-download-fill:before {
 	content:"\f10a";
 }
 
 
-.icon-remove-16:before {
+.icon-edit-fill:before {
 	content:"\f10b";
 }
 
 
-.icon-remove-24:before {
+.icon-editing-fill:before {
 	content:"\f10c";
 }
 
 
-.icon-search-16:before {
+.icon-error-fill:before {
 	content:"\f10d";
 }
 
 
-.icon-search-24:before {
+.icon-fordward-outline:before {
 	content:"\f10e";
 }
 
 
-.icon-star-16:before {
+.icon-genre-outline:before {
 	content:"\f10f";
 }
 
 
-.icon-star-24:before {
+.icon-help-fill:before {
 	content:"\f110";
+}
+
+
+.icon-home-fill:before {
+	content:"\f111";
+}
+
+
+.icon-info-fill:before {
+	content:"\f112";
+}
+
+
+.icon-line-outline:before {
+	content:"\f113";
+}
+
+
+.icon-location-fill:before {
+	content:"\f114";
+}
+
+
+.icon-location-outline:before {
+	content:"\f115";
+}
+
+
+.icon-lock-fill:before {
+	content:"\f116";
+}
+
+
+.icon-lock-outline:before {
+	content:"\f117";
+}
+
+
+.icon-mobile-fill:before {
+	content:"\f118";
+}
+
+
+.icon-more-fill:before {
+	content:"\f119";
+}
+
+
+.icon-more-outline:before {
+	content:"\f11a";
+}
+
+
+.icon-next-outline:before {
+	content:"\f11b";
+}
+
+
+.icon-print-fill:before {
+	content:"\f11c";
+}
+
+
+.icon-return-outline:before {
+	content:"\f11d";
+}
+
+
+.icon-search-outline:before {
+	content:"\f11e";
+}
+
+
+.icon-select-outline:before {
+	content:"\f11f";
+}
+
+
+.icon-share:before {
+	content:"\f120";
+}
+
+
+.icon-star-fill:before {
+	content:"\f121";
+}
+
+
+.icon-star-outline:before {
+	content:"\f122";
+}
+
+
+.icon-ticket-outline:before {
+	content:"\f123";
+}
+
+
+.icon-tool-fill:before {
+	content:"\f124";
+}
+
+
+.icon-tool-ouline:before {
+	content:"\f125";
+}
+
+
+.icon-unlock-outline:before {
+	content:"\f126";
+}
+
+
+.icon-up-outline:before {
+	content:"\f127";
+}
+
+
+.icon-upload-fill:before {
+	content:"\f128";
+}
+
+
+.icon-user-fill:before {
+	content:"\f129";
+}
+
+
+.icon-user-outline:before {
+	content:"\f12a";
+}
+
+
+.icon-view-fill:before {
+	content:"\f12b";
 }
 
 		</style>
@@ -169,37 +310,91 @@
 
 		<div class="icons" id="icons">
 			
-				<div class="icons__item" data-name="add-16"><i class="icon icon-add-16"></i> icon-add-16</div>
+				<div class="icons__item" data-name="alert-fill"><i class="icon icon-alert-fill"></i> icon-alert-fill</div>
 			
-				<div class="icons__item" data-name="add-24"><i class="icon icon-add-24"></i> icon-add-24</div>
+				<div class="icons__item" data-name="alert-outline"><i class="icon icon-alert-outline"></i> icon-alert-outline</div>
 			
-				<div class="icons__item" data-name="check-16"><i class="icon icon-check-16"></i> icon-check-16</div>
+				<div class="icons__item" data-name="back-outline"><i class="icon icon-back-outline"></i> icon-back-outline</div>
 			
-				<div class="icons__item" data-name="check-24"><i class="icon icon-check-24"></i> icon-check-24</div>
+				<div class="icons__item" data-name="calendar-fill"><i class="icon icon-calendar-fill"></i> icon-calendar-fill</div>
 			
-				<div class="icons__item" data-name="edit-16"><i class="icon icon-edit-16"></i> icon-edit-16</div>
+				<div class="icons__item" data-name="card-outline"><i class="icon icon-card-outline"></i> icon-card-outline</div>
 			
-				<div class="icons__item" data-name="edit-24"><i class="icon icon-edit-24"></i> icon-edit-24</div>
+				<div class="icons__item" data-name="check-outline"><i class="icon icon-check-outline"></i> icon-check-outline</div>
 			
-				<div class="icons__item" data-name="home-16"><i class="icon icon-home-16"></i> icon-home-16</div>
+				<div class="icons__item" data-name="close-fill"><i class="icon icon-close-fill"></i> icon-close-fill</div>
 			
-				<div class="icons__item" data-name="home-24"><i class="icon icon-home-24"></i> icon-home-24</div>
+				<div class="icons__item" data-name="close-outline"><i class="icon icon-close-outline"></i> icon-close-outline</div>
 			
-				<div class="icons__item" data-name="menu-16"><i class="icon icon-menu-16"></i> icon-menu-16</div>
+				<div class="icons__item" data-name="down-outline"><i class="icon icon-down-outline"></i> icon-down-outline</div>
 			
-				<div class="icons__item" data-name="menu-24"><i class="icon icon-menu-24"></i> icon-menu-24</div>
+				<div class="icons__item" data-name="download-fill"><i class="icon icon-download-fill"></i> icon-download-fill</div>
 			
-				<div class="icons__item" data-name="remove-16"><i class="icon icon-remove-16"></i> icon-remove-16</div>
+				<div class="icons__item" data-name="edit-fill"><i class="icon icon-edit-fill"></i> icon-edit-fill</div>
 			
-				<div class="icons__item" data-name="remove-24"><i class="icon icon-remove-24"></i> icon-remove-24</div>
+				<div class="icons__item" data-name="editing-fill"><i class="icon icon-editing-fill"></i> icon-editing-fill</div>
 			
-				<div class="icons__item" data-name="search-16"><i class="icon icon-search-16"></i> icon-search-16</div>
+				<div class="icons__item" data-name="error-fill"><i class="icon icon-error-fill"></i> icon-error-fill</div>
 			
-				<div class="icons__item" data-name="search-24"><i class="icon icon-search-24"></i> icon-search-24</div>
+				<div class="icons__item" data-name="fordward-outline"><i class="icon icon-fordward-outline"></i> icon-fordward-outline</div>
 			
-				<div class="icons__item" data-name="star-16"><i class="icon icon-star-16"></i> icon-star-16</div>
+				<div class="icons__item" data-name="genre-outline"><i class="icon icon-genre-outline"></i> icon-genre-outline</div>
 			
-				<div class="icons__item" data-name="star-24"><i class="icon icon-star-24"></i> icon-star-24</div>
+				<div class="icons__item" data-name="help-fill"><i class="icon icon-help-fill"></i> icon-help-fill</div>
+			
+				<div class="icons__item" data-name="home-fill"><i class="icon icon-home-fill"></i> icon-home-fill</div>
+			
+				<div class="icons__item" data-name="info-fill"><i class="icon icon-info-fill"></i> icon-info-fill</div>
+			
+				<div class="icons__item" data-name="line-outline"><i class="icon icon-line-outline"></i> icon-line-outline</div>
+			
+				<div class="icons__item" data-name="location-fill"><i class="icon icon-location-fill"></i> icon-location-fill</div>
+			
+				<div class="icons__item" data-name="location-outline"><i class="icon icon-location-outline"></i> icon-location-outline</div>
+			
+				<div class="icons__item" data-name="lock-fill"><i class="icon icon-lock-fill"></i> icon-lock-fill</div>
+			
+				<div class="icons__item" data-name="lock-outline"><i class="icon icon-lock-outline"></i> icon-lock-outline</div>
+			
+				<div class="icons__item" data-name="mobile-fill"><i class="icon icon-mobile-fill"></i> icon-mobile-fill</div>
+			
+				<div class="icons__item" data-name="more-fill"><i class="icon icon-more-fill"></i> icon-more-fill</div>
+			
+				<div class="icons__item" data-name="more-outline"><i class="icon icon-more-outline"></i> icon-more-outline</div>
+			
+				<div class="icons__item" data-name="next-outline"><i class="icon icon-next-outline"></i> icon-next-outline</div>
+			
+				<div class="icons__item" data-name="print-fill"><i class="icon icon-print-fill"></i> icon-print-fill</div>
+			
+				<div class="icons__item" data-name="return-outline"><i class="icon icon-return-outline"></i> icon-return-outline</div>
+			
+				<div class="icons__item" data-name="search-outline"><i class="icon icon-search-outline"></i> icon-search-outline</div>
+			
+				<div class="icons__item" data-name="select-outline"><i class="icon icon-select-outline"></i> icon-select-outline</div>
+			
+				<div class="icons__item" data-name="share"><i class="icon icon-share"></i> icon-share</div>
+			
+				<div class="icons__item" data-name="star-fill"><i class="icon icon-star-fill"></i> icon-star-fill</div>
+			
+				<div class="icons__item" data-name="star-outline"><i class="icon icon-star-outline"></i> icon-star-outline</div>
+			
+				<div class="icons__item" data-name="ticket-outline"><i class="icon icon-ticket-outline"></i> icon-ticket-outline</div>
+			
+				<div class="icons__item" data-name="tool-fill"><i class="icon icon-tool-fill"></i> icon-tool-fill</div>
+			
+				<div class="icons__item" data-name="tool-ouline"><i class="icon icon-tool-ouline"></i> icon-tool-ouline</div>
+			
+				<div class="icons__item" data-name="unlock-outline"><i class="icon icon-unlock-outline"></i> icon-unlock-outline</div>
+			
+				<div class="icons__item" data-name="up-outline"><i class="icon icon-up-outline"></i> icon-up-outline</div>
+			
+				<div class="icons__item" data-name="upload-fill"><i class="icon icon-upload-fill"></i> icon-upload-fill</div>
+			
+				<div class="icons__item" data-name="user-fill"><i class="icon icon-user-fill"></i> icon-user-fill</div>
+			
+				<div class="icons__item" data-name="user-outline"><i class="icon icon-user-outline"></i> icon-user-outline</div>
+			
+				<div class="icons__item" data-name="view-fill"><i class="icon icon-view-fill"></i> icon-view-fill</div>
 			
 		</div>
 

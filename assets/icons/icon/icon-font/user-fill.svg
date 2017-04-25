@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 43.1 (39012) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/icon-font/user-fill</title>
+    <desc>Created with sketchtool.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icons" transform="translate(-182.000000, -304.000000)" fill="#282828">
+            <g id="Fill" transform="translate(182.000000, 304.000000)">
+                <path d="M8,8 C10.2,8 12,6.2 12,4 C12,1.8 10.2,0 8,0 C5.8,0 4,1.8 4,4 C4,6.2 5.8,8 8,8 L8,8 Z M8,10 C5.3,10 0,11.3 0,14 L0,16 L16,16 L16,14 C16,11.3 10.7,10 8,10 L8,10 Z" id="icon/icon-font/user-fill"></path>
+            </g>
+        </g>
+    </g>
+</svg>

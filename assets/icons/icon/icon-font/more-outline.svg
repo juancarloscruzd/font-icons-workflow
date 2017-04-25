@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 43.1 (39012) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/icon-font/more-outline</title>
+    <desc>Created with sketchtool.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icons" transform="translate(-734.000000, -400.000000)" fill-rule="nonzero" fill="#282828">
+            <path d="M743.197418,406.787879 L743.197418,401.290745 C743.197418,400.582009 742.659967,400 741.986931,400 C741.313894,400 740.776443,400.582009 740.776443,401.290745 L740.776443,406.787879 L735.288979,406.787879 C734.581052,406.787879 734,407.326259 734,408 C734,408.673741 734.581052,409.212121 735.288979,409.212121 L740.776443,409.212121 L740.776443,414.709255 C740.776443,415.417991 741.313894,416 741.986931,416 C742.659967,416 743.197418,415.417991 743.197418,414.709255 L743.197418,409.212121 L748.711021,409.212121 C749.418948,409.212121 750,408.673741 750,408 C750,407.326259 749.418948,406.787879 748.711021,406.787879 L743.197418,406.787879 Z" id="icon/icon-font/more-outline"></path>
+        </g>
+    </g>
+</svg>

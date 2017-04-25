@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="14px" height="16px" viewBox="0 0 14 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 43.1 (39012) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/icon-font/alert-fill</title>
+    <desc>Created with sketchtool.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icons" transform="translate(-183.000000, -336.000000)" fill="#282828">
+            <g id="Fill" transform="translate(182.000000, 304.000000)">
+                <path d="M8,48 C8.88,48 9.6,47.28 9.6,46.4 L6.4,46.4 C6.4,47.28 7.12,48 8,48 L8,48 Z M13.2,43.2 L13.2,38.8 C13.2,36.32 11.52,34.32 9.2,33.76 L9.2,33.2 C9.2,32.56 8.64,32 8,32 C7.36,32 6.8,32.56 6.8,33.2 L6.8,33.76 C4.48,34.32 2.8,36.32 2.8,38.8 L2.8,43.2 L1.2,44.8 L1.2,45.6 L14.8,45.6 L14.8,44.8 L13.2,43.2 L13.2,43.2 Z" id="icon/icon-font/alert-fill"></path>
+            </g>
+        </g>
+    </g>
+</svg>

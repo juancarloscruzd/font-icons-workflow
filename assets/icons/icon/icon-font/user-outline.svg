@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 43.1 (39012) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/icon-font/user-outline</title>
+    <desc>Created with sketchtool.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icons" transform="translate(-734.000000, -304.000000)" fill="#282828">
+            <path d="M742,305.9 C743.2,305.9 744.1,306.8 744.1,308 C744.1,309.2 743.2,310.1 742,310.1 C740.8,310.1 739.9,309.2 739.9,308 C739.9,306.8 740.8,305.9 742,305.9 L742,305.9 Z M742,314.9 C745,314.9 748.1,316.4 748.1,317 L748.1,318.1 L735.9,318.1 L735.9,317 C735.9,316.4 739,314.9 742,314.9 L742,314.9 Z M742,304 C739.8,304 738,305.8 738,308 C738,310.2 739.8,312 742,312 C744.2,312 746,310.2 746,308 C746,305.8 744.2,304 742,304 L742,304 L742,304 Z M742,313 C739.3,313 734,314.3 734,317 L734,320 L750,320 L750,317 C750,314.3 744.7,313 742,313 L742,313 L742,313 Z" id="icon/icon-font/user-outline"></path>
+        </g>
+    </g>
+</svg>

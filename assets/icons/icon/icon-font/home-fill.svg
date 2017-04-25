@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="14px" viewBox="0 0 16 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 43.1 (39012) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/icon-font/home-fill</title>
+    <desc>Created with sketchtool.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icons" transform="translate(-246.000000, -367.000000)" fill="#282828">
+            <g id="Fill" transform="translate(182.000000, 304.000000)">
+                <path d="M69.3906311,76.6 C69.9480902,76.6 70.4,76.1570313 70.4,75.6054369 L70.4,71.8 L73.6,71.8 L73.6,75.6054369 C73.6,76.1547189 74.0433532,76.6 74.6093689,76.6 L76.5906311,76.6 C77.1480902,76.6 77.6,76.1601021 77.6,75.6 L77.6,70.2 L78.9960899,70.2 C79.5505342,70.2 79.6664351,69.8997916 79.2617188,69.5355469 L73.4859899,64.3373909 C72.6653004,63.5987703 71.3316845,63.601484 70.5140101,64.3373909 L64.7382812,69.5355469 C64.3305398,69.9025142 64.440197,70.2 65.0039101,70.2 L66.4,70.2 L66.4,75.6 C66.4,76.1522847 66.8433532,76.6 67.4093689,76.6 L69.3906311,76.6 Z" id="icon/icon-font/home-fill"></path>
+            </g>
+        </g>
+    </g>
+</svg>

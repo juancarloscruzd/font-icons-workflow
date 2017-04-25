@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="10px" viewBox="0 0 16 10" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 43.1 (39012) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/icon-font/down-outline</title>
+    <desc>Created with sketchtool.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icons" transform="translate(-798.000000, -435.000000)" fill-rule="nonzero" fill="#282828">
+            <path d="M801.748961,445.93078 C801.275599,446.404142 801.275599,447.171615 801.748961,447.644978 C802.222324,448.118341 802.989797,448.118341 803.46316,447.644978 L810.251039,440.857099 C810.724401,440.383736 810.724401,439.616264 810.251039,439.142901 L803.46316,432.355022 C802.989797,431.881659 802.222324,431.881659 801.748961,432.355022 C801.275599,432.828385 801.275599,433.595858 801.748961,434.06922 L807.679741,440 L801.748961,445.93078 Z" id="icon/icon-font/down-outline" transform="translate(806.000000, 440.000000) rotate(90.000000) translate(-806.000000, -440.000000) "></path>
+        </g>
+    </g>
+</svg>

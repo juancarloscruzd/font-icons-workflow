@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="2px" viewBox="0 0 16 2" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 43.1 (39012) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/icon-font/line-outline</title>
+    <desc>Created with sketchtool.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icons" transform="translate(-734.000000, -471.000000)" fill-rule="nonzero" fill="#282828">
+            <path d="M735.081081,473 L748.918919,473 C749.515984,473 750,472.552285 750,472 C750,471.447715 749.515984,471 748.918919,471 L735.081081,471 C734.484016,471 734,471.447715 734,472 C734,472.552285 734.484016,473 735.081081,473 Z" id="icon/icon-font/line-outline"></path>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 43.1 (39012) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/icon-font/share</title>
+    <desc>Created with sketchtool.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icons" transform="translate(-182.000000, -368.000000)" fill="#282828">
+            <g id="Fill" transform="translate(182.000000, 304.000000)">
+                <path d="M12.8,69.6 C12.16,69.6 11.6,69.84 11.2,70.24 L5.52,66.96 C5.6,66.8 5.6,66.56 5.6,66.4 C5.6,65.04 4.56,64 3.2,64 C1.84,64 0.8,65.04 0.8,66.4 C0.8,67.76 1.84,68.8 3.2,68.8 C3.84,68.8 4.4,68.56 4.8,68.16 L10.48,71.44 C10.4,71.6 10.4,71.84 10.4,72 C10.4,72.16 10.4,72.4 10.48,72.56 L4.8,75.92 C4.4,75.52 3.84,75.28 3.2,75.28 C1.92,75.28 0.88,76.32 0.88,77.6 C0.88,78.88 1.92,79.92 3.2,79.92 C4.48,79.92 5.52,78.88 5.52,77.6 C5.52,77.44 5.52,77.28 5.44,77.04 L11.12,73.68 C11.52,74.08 12.08,74.32 12.72,74.32 C14.08,74.32 15.12,73.28 15.12,71.92 C15.12,70.56 14.16,69.6 12.8,69.6 L12.8,69.6 Z" id="icon/icon-font/share"></path>
+            </g>
+        </g>
+    </g>
+</svg>

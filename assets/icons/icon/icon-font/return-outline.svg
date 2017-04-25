@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 43.1 (39012) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/icon-font/return-outline</title>
+    <desc>Created with sketchtool.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icons" transform="translate(-766.000000, -368.000000)" fill="#282828">
+            <path d="M774,368 C769.6,368 766,371.6 766,376 C766,380.4 769.6,384 774,384 C777.7,384 780.8,381.4 781.7,378 L779.6,378 C778.8,380.3 776.6,382 774,382 C770.7,382 768,379.3 768,376 C768,372.7 770.7,370 774,370 C775.7,370 777.1,370.7 778.2,371.8 L775.710184,374.289816 C775.31796,374.68204 775.437881,375 776.002929,375 L780.997071,375 C781.550973,375 782,374.562119 782,373.997071 L782,369.002929 C782,368.449027 781.686242,368.313758 781.292902,368.707098 L779.6,370.4 C778.2,368.9 776.2,368 774,368 Z" id="icon/icon-font/return-outline"></path>
+        </g>
+    </g>
+</svg>

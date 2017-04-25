@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="13px" viewBox="0 0 18 13" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 43.1 (39012) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/icon-font/check-outline</title>
+    <desc>Created with sketchtool.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icons" transform="translate(-765.000000, -465.000000)" fill="#282828">
+            <path d="M766.208428,472.769154 C765.817096,472.377822 765.81176,471.748682 766.21118,471.349263 L766.489059,471.071383 C766.881911,470.678531 767.514859,470.674541 767.902942,471.062623 L771.573152,474.732834 L780.095515,466.210471 C780.48711,465.818876 781.116462,465.813328 781.515882,466.212748 L781.793761,466.490627 C782.186613,466.883479 782.189701,467.51733 781.804611,467.90242 L772.273624,477.433407 C771.886764,477.820267 771.263627,477.824354 770.864582,477.425308 L766.208428,472.769154 Z" id="icon/icon-font/check-outline"></path>
+        </g>
+    </g>
+</svg>

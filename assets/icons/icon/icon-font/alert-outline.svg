@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="14px" height="16px" viewBox="0 0 14 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 43.1 (39012) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/icon-font/alert-outline</title>
+    <desc>Created with sketchtool.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icons" transform="translate(-735.000000, -336.000000)" fill="#282828">
+            <path d="M742,352 C742.88,352 743.6,351.28 743.6,350.4 L740.4,350.4 C740.4,351.28 741.12,352 742,352 L742,352 Z M747.2,347.2 L747.2,342.8 C747.2,340.32 745.52,338.32 743.2,337.76 L743.2,337.2 C743.2,336.56 742.64,336 742,336 C741.36,336 740.8,336.56 740.8,337.2 L740.8,337.76 C738.48,338.32 736.8,340.32 736.8,342.8 L736.8,347.2 L735.2,348.8 L735.2,349.6 L748.8,349.6 L748.8,348.8 L747.2,347.2 L747.2,347.2 Z M745.6,348 L738.4,348 L738.4,342.8 C738.4,340.8 740,339.2 742,339.2 C744,339.2 745.6,340.8 745.6,342.8 L745.6,348 L745.6,348 Z" id="icon/icon-font/alert-outline"></path>
+        </g>
+    </g>
+</svg>

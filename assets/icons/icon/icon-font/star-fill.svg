@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 43.1 (39012) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/icon-font/star-fill</title>
+    <desc>Created with sketchtool.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icons" transform="translate(-214.000000, -304.000000)" fill="#282828">
+            <g id="Fill" transform="translate(182.000000, 304.000000)">
+                <path d="M42.5320858,5.25511096 L40.7803797,1.12248135 C40.3493954,0.105702154 39.6479398,0.112053143 39.2196476,1.12248135 L37.4679414,5.25511096 L32.9835987,5.63987518 C31.8802851,5.73454135 31.6695902,6.40375508 32.5013219,7.12448756 L35.9030866,10.0722679 L34.8834926,14.4555867 C34.6326349,15.5340446 35.2038619,15.9410483 36.1461354,15.3726348 L40.0000136,13.0478358 L43.8538919,15.3726348 C44.8020879,15.9446211 45.3658255,15.5273084 45.1165347,14.4555867 L44.0969407,10.0722679 L47.4987054,7.12448756 C48.3356649,6.39922496 48.1128507,5.73395005 47.0164286,5.63987518 L42.5320858,5.25511096 Z" id="icon/icon-font/star-fill"></path>
+            </g>
+        </g>
+    </g>
+</svg>
